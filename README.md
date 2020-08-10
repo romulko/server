@@ -8,7 +8,7 @@ To start a REST API server, please, make sure you have installed:<br />
 - Java 8 or greater
 
 ###Bootstrap command:
-Open your favorite terminal, locate on the root folder of the app and execute
+Open your favorite terminal, locate to the root folder of the app and execute
 
 java -jar server.jar
 
